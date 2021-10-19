@@ -10,6 +10,8 @@ Key goals of the project:
 ## 1 About MB-SEM
 Multibeam scanning electron microscopy (MB-SEM) is a new microscopy technique in which a sample is scanned by multiple beams in parallel. Therefore, the throughput of the microscope scales with the number of beams. At TU Delft, a multibeam microscope has been developed that is dedicated to imaging of biological tissue. You can read more about the microscopy technique [in this publication](https://avs.scitation.org/doi/10.1116/1.4966216) and on the [manufacturer's website](https://www.delmic.com/en/products/fast-imaging/fast-em).
 
+[Image](https://raw.githubusercontent.com/arentkievits/MB-SEM/main/Multibeams.png)
+
 ### 1.1 Volume electron microscopy
 Volume electron microscopy comprises all methods for imaging biological tissue in 3D. If you want to know more about the research field, we encourage to read these very informative literature reviews:
 
