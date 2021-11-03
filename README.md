@@ -1,5 +1,5 @@
+![CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)
 [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](code_of_conduct.md) 
-[![CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)]
 
 # Open platform for MB-SEM 
 The open platform for MB-SEM centralizes information (1), data (2), methods (3) and applications (4) related to multibeam scanning electron microscopy (MB-SEM). We are developing MB-SEM methodology in the [Hoogenboom](https://www.hoogenboomlab.org/) and [Kruit](https://www.tudelft.nl/en/faculty-of-applied-sciences/about-faculty/departments/imphys/people/pieter-kruit/) lab at the department of Imaging Physics, TU Delft. We apply MB-SEM in the field of [volume electron microscopy](https://www.azooptics.com/Article.aspx?ArticleID=1504). With this platform, we want to stimulate other researchers interested in MB-SEM to join us in further developing the technique. Our methods will be freely available and reusable. 
