@@ -2,7 +2,7 @@ Thank you for considering a contribution to the open multibeam electron microsco
 Because this project is still in an early stage, it is not really clear where it will go and what will be needed. Nevertheless, below you can find some suggestions if you are enthusiastic.
 
 # Code of conduct
-Everything you do while contributing should be in line with our [code of conduct](. Please read this before you continue!
+Everything you do while contributing should be in line with our [code of conduct](https://github.com/arentkievits/OpenMB-SEM/blob/main/CODE_OF_CONDUCT.md). Please read this before you continue!
 
 # How to contribute
 ## If you are an MB-SEM user and want to get in contact
