@@ -9,7 +9,7 @@ Everything you do while contributing should be in line with our [code of conduct
 Please send the project leader an e-mail at [A.J.Kievits@tudelft.nl](A.J.Kievits@tudelft.nl)
 
 ## If you suggestions for possible features or how to present the data / results
-Feel free to fork any of the repositories mentioned here and run the code yourself. If you have any suggestions, open an issue on the issue tracker and post your idea! We welcome all sorts of input, be it general questions, typo fixes, technical suggestions, biological research questions, etc.
+Feel free to clone / fork any of the repositories mentioned here and run the code yourself. If you have any suggestions, open an issue on the issue tracker and post your idea! We welcome all sorts of input, be it general questions, typo fixes, technical suggestions, biological research questions, etc.
 
 ## If you want to help with user testing
 Currently we do not require any user testing, but we will in the near future! You can star or fork this repository. In this way, you can keep track of the progress and you will be notified when we are in need of testing! We will probably request user feedback for testing a demonstration repository that will be linked to a publication (TODO).
