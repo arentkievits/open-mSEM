@@ -18,7 +18,11 @@ Multibeam scanning electron microscopy (MB-SEM) is a new microscopy technique in
 ### 1.1 Volume electron microscopy
 Volume electron microscopy comprises all methods for imaging biological tissue in 3D. If you want to know more about the research field, we encourage to read these very informative literature reviews:
 
-- Volume electron microscopy: [Peddie & Collinson (2014)](https://www.sciencedirect.com/science/article/pii/S0968432814000250), [Titze & Genoud (2016)](https://onlinelibrary.wiley.com/doi/abs/10.1111/boc.201600024)
+Links:
+- Read our *recent open access review about innovations in volume EM methodology* in [Journal of Microscopy](https://onlinelibrary.wiley.com/doi/10.1111/jmi.13134)
+- Another extensive review article in [Nature Primers](https://www.nature.com/articles/s43586-022-00145-3) 
+- Volume electron microscopy: [Peddie & Collinson (2014)](https://www.sciencedirect.com/science/article/pii/S0968432814000250)
+- Another methodology review: [Titze & Genoud (2016)](https://onlinelibrary.wiley.com/doi/abs/10.1111/boc.201600024)
 - About connectomics and the use of MB-SEM: [Kornfeld & Denk (2018)](https://onlinelibrary.wiley.com/doi/full/10.1111/boc.201600024), [Eberle & Zeidler (2018)](https://www.frontiersin.org/articles/10.3389/fnana.2018.00112/full)
 
 ### 1.2 Characterization of the MB-SEM detection method
