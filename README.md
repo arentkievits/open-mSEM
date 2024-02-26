@@ -53,8 +53,12 @@ We will apply our methods to several demonstration projects and large-scale appl
 
 ## References
 Boergens, K. M., Berning, M., Bocklisch, T., Bräunlein, D., Drawitsch, F., Frohnhofen, J., ... & Helmstaedter, M. (2017). webKnossos: efficient online 3D data annotation for connectomics. nature methods, 14(7), 691-694.
-de Boer, P., & Giepmans, B. N. (2021). State‐of‐the‐art microscopy to understand islets of Langerhans: what to expect next?. Immunology and cell biology, 99(5), 509-520. 
-Kievits, A. J., Peter Duinkerken, B. H., Giepmans, B. N., & Hoogenboom, J. P. (2023). Need for Speed: Imaging Biological Ultrastructure with the 64-beams FAST-EM. (Conference abstract)
-Saalfeld, S., Cardona, A., Hartenstein, V., & Tomančák, P. (2009). CATMAID: collaborative annotation toolkit for massive amounts of image data. Bioinformatics, 25(15), 1984-1986.
+
+de Boer, P., & Giepmans, B. N. (2021). State‐of‐the‐art microscopy to understand islets of Langerhans: what to expect next?. Immunology and cell biology, 99(5), 509-520.   
+
+Kievits, A. J., Peter Duinkerken, B. H., Giepmans, B. N., & Hoogenboom, J. P. (2023). Need for Speed: Imaging Biological Ultrastructure with the 64-beams FAST-EM. (Conference abstract)  
+
+Saalfeld, S., Cardona, A., Hartenstein, V., & Tomančák, P. (2009). CATMAID: collaborative annotation toolkit for massive amounts of image data. Bioinformatics, 25(15), 1984-1986.  
+
 
 
