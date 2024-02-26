@@ -30,7 +30,7 @@ MB-SEM is a trending research topic. We encourage interested readers to read the
 - GAUSS-EM: Guided accumulation of ultrathin serial sections with a static magnetic field for volume electron microscopy (on [BioRxiv](https://doi.org/10.1101/2023.11.13.566828))
 
 ### 1.2 Characterization of electron detection in FAST-EM
-Our implementation of MB-SEM, FAST-EM, makes use of a new detection method called optical scanning transmission electron microscopy (OSTEM). We performed an extensive characterization and benchmarking of this method in relation to conventional detection techniques (e.g. backscatter electron detection). This work is published ([Kievits et al. (2024)](https://doi.org/10.1016/j.ultramic.2023.113877)) and the code and data to reproduce the results is available [here](10.4121/9c98aee1-608e-4c71-8b89-dcb1e8eb3e5e.v2).  
+Our implementation of MB-SEM, FAST-EM, makes use of a new detection method called optical scanning transmission electron microscopy (OSTEM). We performed an extensive characterization and benchmarking of this method in relation to conventional detection techniques (e.g. backscatter electron detection). This work is published [Kievits et al. (2024)](https://doi.org/10.1016/j.ultramic.2023.113877) and the code and data to reproduce the results is available [here](10.4121/9c98aee1-608e-4c71-8b89-dcb1e8eb3e5e.v2).  
 
 ## 2 Data
 We run self-hosted instances of [CATMAID](https://sonic.tnw.tudelft.nl/catmaid/) (Saalfeld et al. (2009) and [WebKnossos](https://webknossos.tnw.tudelft.nl) (Boergens et al. (2017). We use CATMAID and WebKnossos for interactive viewing of large 3D datasets from FAST-EM and for data analysis. We plan to also upload relevant FAST-EM datasets to EMPIAR. 
