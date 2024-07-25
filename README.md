@@ -68,13 +68,20 @@ The cutting of serial ultrathin sections for array tomography is a delicate and 
 We will apply our methods to several demonstration projects and large-scale applications. More on this later.
 
 ## References
-[1] Fermie, J., Zuidema, W., Šejnoha, R., Wolters, A., Giepmans, B., Hoogenboom, J., & Kruit, P. (2021). High-throughput imaging of biological samples with Delmic's FAST-EM. Microscopy and Microanalysis, 27(S1), 558-560. 
-[2] Eberle, A. L., Mikula, S., Schalek, R., Lichtman, J., Tate, M. K., & Zeidler, D. (2015). High‐resolution, high‐throughput imaging with a multibeam scanning electron microscope. Journal of microscopy, 259(2), 114-120.
-[3] Kievits, A. J., Duinkerken, B. P., Lane, R., de Heus, C., van Beijeren Bergen en Henegouwen, D., Höppener, T., ... & Hoogenboom, J. P. (2024). FAST-EM array tomography: a workflow for multibeam volume electron microscopy. Methods in Microscopy, (0).
-[4] Saalfeld, S., Cardona, A., Hartenstein, V., & Tomančák, P. (2009). CATMAID: collaborative annotation toolkit for massive amounts of image data. Bioinformatics, 25(15), 1984-1986.
-[5] Boergens, K. M., Berning, M., Bocklisch, T., Bräunlein, D., Drawitsch, F., Frohnhofen, J., Herold, T., Otto, P., Rzepka, N., Werkmeister, T., & others. (2017). webKnossos: Efficient online 3D data annotation for connectomics. Nature Methods, 14(7), 691-694-691–694.
-[6] de Boer, P., & Giepmans, B. N. (2021). State‐of‐the‐art microscopy to understand islets of Langerhans: what to expect next?. Immunology and cell biology, 99(5), 509-520.   
+[1] Fermie, J., Zuidema, W., Šejnoha, R., Wolters, A., Giepmans, B., Hoogenboom, J., & Kruit, P. (2021). High-throughput imaging of biological samples with Delmic's FAST-EM. Microscopy and Microanalysis, 27(S1), 558-560.  
+
+[2] Eberle, A. L., Mikula, S., Schalek, R., Lichtman, J., Tate, M. K., & Zeidler, D. (2015). High‐resolution, high‐throughput imaging with a multibeam scanning electron microscope. Journal of microscopy, 259(2), 114-120.  
+
+[3] Kievits, A. J., Duinkerken, B. P., Lane, R., de Heus, C., van Beijeren Bergen en Henegouwen, D., Höppener, T., ... & Hoogenboom, J. P. (2024). FAST-EM array tomography: a workflow for multibeam volume electron microscopy. Methods in Microscopy, (0).  
+
+[4] Saalfeld, S., Cardona, A., Hartenstein, V., & Tomančák, P. (2009). CATMAID: collaborative annotation toolkit for massive amounts of image data. Bioinformatics, 25(15), 1984-1986.  
+
+[5] Boergens, K. M., Berning, M., Bocklisch, T., Bräunlein, D., Drawitsch, F., Frohnhofen, J., Herold, T., Otto, P., Rzepka, N., Werkmeister, T., & others. (2017). webKnossos: Efficient online 3D data annotation for connectomics. Nature Methods, 14(7), 691-694-691–694.  
+
+[6] de Boer, P., & Giepmans, B. N. (2021). State‐of‐the‐art microscopy to understand islets of Langerhans: what to expect next?. Immunology and cell biology, 99(5), 509-520. 
+
 [7] Kievits, A. J., Peter Duinkerken, B. H., Giepmans, B. N., & Hoogenboom, J. P. (2023). Need for Speed: Imaging Biological Ultrastructure with the 64-beams FAST-EM. (Conference abstract)  
+
 [8] Kormacheva, M., Kievits, A., Reuteler, J., Niessen, M., Hoedt, S. den, Khan, S., Bosch, C., Hoogenboom, J., Schaefer, A., & Wanner, A. (2024). BIB-mSTEM Approach for Large Scale Acquisition of Brain Tissue. Microscopy and Microanalysis, 30(Supplement_1), ozae044.328. https://doi.org/10.1093/mam/ozae044.328
 
 
